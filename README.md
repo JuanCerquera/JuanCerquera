@@ -2,7 +2,7 @@
 
 **Robotics MS Student at Northeastern University under a Fulbright Scholarship**
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://juancerquera.com)
+[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://juancerquera.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-cerquera)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cerqueracano.j@northeastern.edu)
 
