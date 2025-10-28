@@ -32,9 +32,9 @@ My journey has taken me from designing custom machines in Colombia to programmin
 
 ## Tech Stack
 
-**Hardware**: ABB Robots, Arduino, PIC Microcontrollers, 3D Printing.
-**Software**: Python, C++, ROS2, MATLAB, Java. 
-**Tools**: Fusion360, FlexSim, Git, Whatever gets the job done.
+- **Hardware**: ABB Robots, Arduino, PIC Microcontrollers, 3D Printing.
+- **Software**: Python, C++, ROS2, MATLAB, Java. 
+- **Tools**: Fusion360, FlexSim, Git, Whatever gets the job done.
 
 ## Achievements Worth Mentioning
 
