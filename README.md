@@ -2,6 +2,7 @@
 
 **Robotics MS Student at Northeastern University under a Fulbright Scholarship**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-cerquera)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cerqueracano.j@northeastern.edu)
 
@@ -37,7 +38,7 @@ My journey has taken me from designing custom machines in Colombia to programmin
 
 ## Achievements Worth Mentioning
 
-- Won a few hackathons (Hunger4Innovation, ASIBEI International).
+- Won a few hackathons (Hunger4Innovation, ASIBEI International, TaxisLibres).
 - Top 5 among 2,500 projects in IEEE Journey Call for Code.
 - Graduated top 3 in my class.
 - Harvard CS50x certified (plus a bunch of other online courses).
